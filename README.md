@@ -52,7 +52,7 @@ Creates User object
 
 Displays pop-up using Alert
 
-⚙ Technologies Used
+Technologies Used
 
 Java
 
